@@ -8,7 +8,7 @@ const Body = () => {
         <div>
             <Nav />
             <NewCustomer />
-            <Details/>
+            <Details />
         </div>
     );
 };
